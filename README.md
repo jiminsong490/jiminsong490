@@ -9,13 +9,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiminsong490)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-Languages & Tech Stack
-java, node.js, python
-spring boot, express, nest, django
-elasticsearch, redis,
-Database
-mysql, mongodb
-
-devops
-AWS, docker, github actions, Nginx
